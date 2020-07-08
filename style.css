@@ -1,0 +1,117 @@
+#logo{
+width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+}
+
+.row .col-md-4{
+    padding-top: 100px;
+}
+
+.row .col-md-6{
+    padding-top: 50px;
+}
+.first{
+    background-color: #F0FFF0;
+}
+
+.img-cat{
+    
+    width: 65px;
+    height: 75px;
+    margin-left: 10%;
+    
+
+}
+
+.cat1, .cat2, .cat3, .cat4{
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #F8FFFB;
+    
+}
+ 
+.cat2{
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.first{
+    width: 1440px;
+height: 576px;
+}
+.btn-style{
+    background-color: #21B573;
+    border-radius: 33px;
+}
+.Onln-course{
+    margin-top: 40px;
+}
+ .img-card{
+    width: 331px;
+    height: 234px;
+    left: 154px;
+top: 1126px;
+
+background: url(.jpg), #CFB6B6;
+border-radius: 11px;  
+ }
+.img-card2{
+    width: 24px;
+    height: 24px;
+}
+.footxt{
+    font-size: 16px;
+}
+.card{
+    width: 370px;
+height: 483px;
+}
+.centertxt{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+}
+#imgtest{
+    width: 120px;
+height: 120px;
+ margin-left: 40%;
+}
+.test .col-md-8{
+    font-size:medium;
+    font-weight: 700;
+    margin-top: 25px;
+
+}
+.foot{
+    margin-top: 40px;
+    position: absolute;
+width: 1463px;
+height: 369px;
+color: white;
+background: #282531;
+}
+.liststl{
+    list-style: none;
+    font-weight: 700;
+}
+.foot .row{
+    margin-top:30px;
+}
+.col-md-5{
+    font-size: medium;
+    margin-left: 20px;
+    
+}
+#copyPra{
+    font-size: smaller;
+    text-align: center;
+    margin-top: 150px;
+}
+
+
+ 
+
+
